@@ -1,0 +1,12 @@
+/* src/components/Resource/Resource.css */
+.resource {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px 0;
+  }
+  
+  .resource span {
+    flex-grow: 1;
+  }
+  
